@@ -6,7 +6,7 @@ Create an Carousel Slider With Dots completely in Flutter.
 
 |              App Preview             |
 | :----------------------------------: |
-| <img src="image_slider.png" width="350"></a> |
+| <img src="image_slider.gif" width="350"></a> |
 
 
 ### ⚡&ensp;Social Media
